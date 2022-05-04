@@ -1,0 +1,12 @@
+//Write a java program to print the sum of two numbers.
+
+	class Addition
+	{
+	public static void main(String args[])
+	{
+	int n1 = 74;
+	int n2 = 36;
+	sum = n1+n2;
+	System.out.println(sum);
+	}
+	}
